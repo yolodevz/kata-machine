@@ -1,6 +1,12 @@
 module.exports = {
     dsa: [
-        "DFSOnBST",
+        "InsertionSort",
+        "MergeSort",
+        "Queue",
+        "Stack",
+        "QuickSort",
+        "DijkstraList",
+        "PrimsList",
         "LRU",
         "LinearSearchList",
         "BinarySearchList",
@@ -8,8 +14,6 @@ module.exports = {
         "BubbleSort",
         "SinglyLinkedList",
         "DoublyLinkedList",
-        "Queue",
-        "Stack",
         "ArrayList",
         "MazeSolver",
         "QuickSort",
